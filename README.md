@@ -1,16 +1,24 @@
-### Hi there 👋
+# iOS Engineering Highlights
 
-<!--
-**WERUreo/WERUreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A selection of production iOS apps and features I’ve contributed to, with a focus on Swift, SwiftUI, and connected-device integration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚴‍♂️ [Echelon Fit – App Store](https://apps.apple.com/us/app/echelon-fit/id1262424186)
+
+Contributed to the core workout experience of Echelon’s iOS app, which supports live and on-demand fitness classes.  
+- Developed features for real-time workout metrics from **Bluetooth-connected equipment** (bikes, rowers, treadmills)  
+- Implemented performance-optimized UI components using **Swift** and **SwiftUI**  
+- Collaborated across firmware, design, and video streaming teams to ensure seamless user experience
+- Applied basic use of Combine in targeted contexts, while primarily using async/await and structured concurrency  
+
+---
+
+### 🔐 [IPVanish VPN – App Store](https://apps.apple.com/us/app/ipvanish-ip-location-changer/id763638165)
+
+Worked on IPVanish’s iOS app, a secure and high-speed VPN used globally.  
+- Improved secure connection flows and enhanced app stability  
+- Refactored legacy UI for a modern, Swift-native experience  
+- Collaborated with backend and platform teams to align with evolving Apple privacy standards  
+
+---
