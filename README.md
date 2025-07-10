@@ -10,7 +10,6 @@ Contributed to the core workout experience of Echelon’s iOS app, which support
 - Developed features for real-time workout metrics from **Bluetooth-connected equipment** (bikes, rowers, treadmills)  
 - Implemented performance-optimized UI components using **Swift** and **SwiftUI**  
 - Collaborated across firmware, design, and video streaming teams to ensure seamless user experience
-- Applied basic use of Combine in targeted contexts, while primarily using async/await and structured concurrency  
 
 ---
 
