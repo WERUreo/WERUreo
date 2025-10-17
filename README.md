@@ -4,7 +4,7 @@ A selection of production iOS apps and features I’ve contributed to, with a fo
 
 ---
 
-### 🚴‍♂️ [Echelon Fit – App Store](https://apps.apple.com/us/app/echelon-fit/id1262424186)
+### 🚴‍♂️ [Echelon Connect – App Store](https://apps.apple.com/us/app/echelon-fit/id1262424186)
 
 Contributed to the core workout experience of Echelon’s iOS app, which supports live and on-demand fitness classes.  
 - Developed features for real-time workout metrics from **Bluetooth-connected equipment** (bikes, rowers, treadmills)  
